@@ -16,11 +16,8 @@ if (userInput){
 }
 
 /* User get a prompt window to ask a question, and it will print the question and with the name of the user.
- If not the name is given in the begining of the program, only the question is printed out
+ If not the name is given in the begining of the program, only the question is printed out*/
 
-
- fsdfsdfsdfsdf
- sdfsdfsdfsdfsdf*/
 
 var userQuestion = prompt("Please ask a question");
 

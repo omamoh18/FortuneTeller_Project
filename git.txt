@@ -1,0 +1,21 @@
+
+starte nytt prosjekt:
+
+---------------------------------
+#1 git init (i mappen din)
+#2 git add -A (legger til alle filer)
+#3 git commit -m "first commit" (legger til alle filene i commit)
+#4 (LEGG TIL NY REPOSITORY PÅ GITHUB.COM/DITTBRUKERNAVN (+-tegnet)
+#5 git remote add origin https://github.com/username/repo.git
+#6 git push --set-upstream origin master (evt "git push origin" i Linux / Mac (?))
+---------------------------------
+
+
+
+
+oppdatere et prosjekt (du har endret noen av filene, lagt til mere kode etc)
+---------------------------------
+git add -A
+git commit -m "some updates for function() blabla"
+git push origin
+---------------------------------
